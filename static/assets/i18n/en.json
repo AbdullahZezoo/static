@@ -1,0 +1,136 @@
+{
+    "HOME": {
+      "TITLE": "Welcome to Tawasol Masr Portal",
+      "dir": "ltr",
+      "SUB": "Tawasol Masr - Egypt Portal for Workers. Register Now!",
+      "get_started": "New Registration",
+      "view_form": "View Registration",
+      "problem_title": "Do you have any problem?",
+      "problem_body": "Hit the buttons below to send an email",
+      "send_mail": "Send Email",
+      "footer_title": "Let's keep in touch!",
+      "footer_sub": "Find us on any of these platforms.",
+      "copyright": "Copyright © 2021 EgySafar by DM TECH .",
+      "links": "USEFUL LINKS",
+      "about": "About Us",
+      "products": "Products",
+      "license": "License",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy",
+      "contact": "Contact Us",
+      "style": "absolute top-2 b-auto right-0 pt-16 sm:w-6/12 -mt-48 sm:mt-0 w-10/12 max-h-860-px"
+      
+
+    },
+    "Form": {
+      "title": "Submission Form",
+      "attachment": "Attachments",
+      "view_attachments": "Attachments",
+      "photo": "Attach Personal Photo",
+      "criminal":"Attach Certificate of Criminal Record Photo",
+      "personal_info": "Personal Information",
+      "name": "Full Name",
+      "destination": "Destination",
+      "purpose": "Travel purpose",
+      "id": "National Id",
+      "passport": "Passport Number",
+      "attach_national": "ATTACH NATIONAL ID COPY (.JPEG OR .PNG)",
+      "attach_passport": "ATTACH PASSPORT COPY (.JPEG OR .PNG)",
+      "attach_photo": "Attached Personal Photo",
+      "attach_criminal": "Attached Certificate of Criminal Record",
+      "contact_info": "Contact Information",
+      "phone": "Phone",
+      "email": "Email (If any.)",
+      "Email": "Email",
+      "address": "Adress",
+      "city": "City",
+      "country": "Country",
+      "save": "Save & Continue",
+      "attach_national_copy": "Attached National ID Copy",
+      "attach_passport_copy": "Attached Passport Copy",
+      "submit": "Submit",
+      "edit": "Edit",
+      "confirm": "I confirm that all submitted information is correct.",
+      "summary": "Summary & Submition",
+      "serial_number": "Application Serial Number",
+      "msg_done": "your data has successfully submited, Make sure to save your ID to keep track of your applcation.",
+      "copy": "Copy",
+      "print": "Print",
+      "submission_id": "Submission ID",
+      "code": "20",
+      "file": "Browse",
+      "uploaded": "No File Uploaded Yet.",
+      "remember": "Remember me",
+      "download": "Save",
+      "cancel": "Delete",
+      "register-data": "Registered Data",
+      "sign": "Sign in",
+      "password": "Password",
+      "new_account": "Create new account",
+      "edit_info": "Edit Applicant Information",
+      "icon": "z-10 h-full leading-snug font-normal absolute text-center text-blueGray-300 absolute bg-transparent rounded text-base items-center justify-center w-8 right-0 pr-3 py-3"
+    },
+    "Select": {
+      "destination": "Select Destination",
+      "libya": "Libya",
+      "country": "Select Country",
+      "city": "Select City",
+      "egypt": "Egypt",
+      "cairo": "Cairo",
+      "travel": "Select Travel Purpose",
+      "away": "Away",
+      "home": "Home"
+    },
+    "Data": {
+      "name": "Abdullah Abdelaziz Abdelslam Mohamed",
+      "destination": "Libya",
+      "national": "29803280102151",
+      "passport": "yu32338ha",
+      "national_copy": "ID.JPEG",
+      "passport_copy": "PASSPORT.JPEG",
+      "phone": "01226302807",
+      "email": "abdullahabdelaziz000@gmail.com",
+      "address": "Cairo, Egypt",
+      "city": "Cairo",
+      "country": "Egypt"
+    },
+    "SideBar": {
+      "main": "Main",
+      "settings": "Settings",
+      "advanced": "Advanced Search"
+      
+    },
+    "Table": {
+      "title": "Travelers Information",
+      "search": "🔍 Search with Applicant ID, Name or Date",
+      "id": "Traveler ID",
+      "date": "Date",
+      "view": "View",
+      "name": "Applicant Name",
+      "review": "Application Reviewed"
+      
+    },
+    "Error": {
+      "name": "Full Name is required.",
+      "nationalId": "NationalID is required.",
+      "passportId": "PassportID is required.",
+      "phone": "Phone is required.",
+      "address": "Address is required.",
+      "submissionId": "",
+      "email": ""
+    },
+    "Modal": {
+      "delete_title": "Delete Confirmation",
+      "delete_msg": "Attention! Your Application will be deleted.",
+      "close": "Close"
+    },
+    "Video": {
+      "title": "Steps to register a travel form",
+      "content": "This video explains how to register travel data for the first time, verify it, and receive the form's serial number.",
+      "step1": "Fill out the required data - register a new travel form.",
+      "step2": "Verify and review all data.",
+      "step3": "Receiving the serial number of the travel form and uploading the data."
+    }
+    
+  }
+  
